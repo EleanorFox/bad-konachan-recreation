@@ -1,0 +1,21 @@
+.image-grid{
+    display: flex;
+    flex-direction: row;
+}
+.image-list{
+        display: flex;
+        flex-direction: column;
+}
+.image{
+    width: 150px;
+}
+.img-margin{
+    width: 150px;
+    margin-left: 20px;
+}
+.title{
+    width: 150px;
+    color: #ffffff;
+    font-size: 14px;
+    margin-left: 20px;
+}

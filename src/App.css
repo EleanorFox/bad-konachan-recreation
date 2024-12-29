@@ -1,0 +1,17 @@
+*{
+  background-color: #222222;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+.Content{
+margin-top: 22px;
+display: flex;
+flex-direction: row;
+}
+.cont{
+  
+}

@@ -1,0 +1,23 @@
+.topbar{
+    background-color: #222222;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner{
+    margin-left: 35px;
+}
+.top-links{
+    margin-left: 35px;
+    display: flex;
+    flex-direction: row;
+}
+.top-links a{
+    margin-right: 35px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 14px;
+    color: #B86D6C;
+}
+.top-links a:visited{
+    color: #ffffff;
+    color:#B86D6C;
+}

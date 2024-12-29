@@ -1,0 +1,27 @@
+.side-content{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: #222222;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 100%;
+}
+.side-cont{
+    margin-left: 35px;
+    color: white;
+}
+.side-cont input{
+background-color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #B86D6C;
+    font-size: 14px;
+}
+a:hover{
+    color: white;
+}
+.tags{
+font-size: 12px;
+}

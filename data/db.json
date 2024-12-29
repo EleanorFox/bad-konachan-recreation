@@ -1,0 +1,88 @@
+{
+    "tags":[{
+        "title": "original",
+        "titleColor": "purple",
+        "id": 1
+    },
+{
+    "title": "hololive",
+    "titleColor": "purple",
+    "id": 2
+},
+{
+    "title": "honkai: star rail",
+    "titleColor": "purple",
+    "id": 3
+},
+{
+    "title": "shirakami fibuki",
+    "titleColor": "green",
+    "id": 4
+},
+{
+    "title": "tingyun (honkai: star rail)",
+    "titleColor": "green",
+    "id": 5
+},
+{
+    "title": "nekokobushi",
+    "titleColor": "yellow",
+    "id": 6
+},
+{
+    "title": "hyde (tabakko)",
+    "titleColor": "yellow",
+    "id": 7
+},
+{
+    "title": "ayamy",
+    "titleColor": "yellow",
+    "id": 8
+},
+{
+    "title": "close",
+    "titleColor": "red",
+    "id": 9
+},
+{
+    "title": "christmas",
+    "titleColor": "red",
+    "id": 10
+},
+{
+    "title": "watermark",
+    "titleColor": "red",
+    "id": 11
+},
+{
+    "title": "signed",
+    "titleColor": "red",
+    "id": 12
+},
+{
+    "title": "waifu2x",
+    "titleColor": "red",
+    "id": 13
+},
+{
+    "title": "aliasing",
+    "titleColor": "red",
+    "id": 14
+},
+{
+    "title": "cropped",
+    "titleColor": "red",
+    "id": 15
+}],
+    "images": [{
+    "image": "/src/images/1.jpg",
+    "title": "image1",
+    "id": 1
+    },
+    {
+    "image": "/src/images/1.jpg",
+    "title": "image1",
+    "id": 2
+    }
+]
+}
