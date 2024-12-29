@@ -76,13 +76,43 @@
 }],
     "images": [{
     "image": "/src/images/1.jpg",
-    "title": "image1",
+    "title": "image 1",
     "id": 1
     },
     {
-    "image": "/src/images/1.jpg",
-    "title": "image1",
+    "image": "/src/images/2.jpg",
+    "title": "image 2",
     "id": 2
-    }
+    },
+    {
+        "image": "/src/images/3.jpg",
+        "title": "image 3",
+        "id": 3
+        },
+        {
+            "image": "/src/images/4.jpg",
+            "title": "image 4",
+            "id": 4
+            },
+            {
+                "image": "/src/images/5.jpg",
+                "title": "image 5",
+                "id": 5
+                },
+                {
+                    "image": "/src/images/6.jpg",
+                    "title": "image 6",
+                    "id": 6
+                    },
+                    {
+                        "image": "/src/images/7.jpg",
+                        "title": "image 7",
+                        "id": 7
+                        },
+                        {
+                            "image": "/src/images/8.jpg",
+                            "title": "image 8",
+                            "id": 8
+                            }
 ]
 }

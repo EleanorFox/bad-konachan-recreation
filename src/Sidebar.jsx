@@ -6,7 +6,7 @@ const Sidebar = () => {
     const [tags, setTags] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:8000/tags')
+        fetch('http://localhost:8001/tags')
             .then(response => response.json())
             .then(data => {
                 console.log(data);
@@ -22,7 +22,7 @@ const Sidebar = () => {
                     Search (<a href="#">advanced</a>)
                 </div>
                 <input type="text" />
-                <div>Hidden posts 0</div>
+                <div className="hidden">Hidden posts 0</div>
                 <div>
                     <TagsList tags={tags} title="Tags" />
                 </div>

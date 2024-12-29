@@ -1,6 +1,7 @@
 .image-grid{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .image-list{
         display: flex;
@@ -8,6 +9,10 @@
 }
 .image{
     width: 150px;
+}
+.img-size{
+    width: 150px;
+    height: 120px;
 }
 .img-margin{
     width: 150px;
@@ -17,5 +22,6 @@
     width: 150px;
     color: #ffffff;
     font-size: 14px;
+    background-color: #000000;
     margin-left: 20px;
 }
